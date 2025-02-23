@@ -1,4 +1,6 @@
 {
+  "id": "bault",
+  "name": "bault",
   "layouts": {
     "Default": {
       "layout": [
@@ -134,5 +136,6 @@
         { "row": 3, "col":  9, "x":  9.5, "y": 3, "w":  1.5 }
       ]
     }
-  }
+  },
+  "sensors": []
 }
